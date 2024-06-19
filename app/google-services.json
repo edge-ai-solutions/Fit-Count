@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "252988644139",
+    "firebase_url": "https://attendance-system-86932-default-rtdb.firebaseio.com",
+    "project_id": "attendance-system-86932",
+    "storage_bucket": "attendance-system-86932.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252988644139:android:3cb70c48ed35f0849e036e",
+        "android_client_info": {
+          "package_name": "com.app.attendancesystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRU3XgzmfDhLTwHKT1D_ZCtpWUvoOxRXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252988644139:android:1e1f4aeace4ea1109e036e",
+        "android_client_info": {
+          "package_name": "com.app.fitcount"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRU3XgzmfDhLTwHKT1D_ZCtpWUvoOxRXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252988644139:android:b2708da7b354b4db9e036e",
+        "android_client_info": {
+          "package_name": "com.app.squatcounter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRU3XgzmfDhLTwHKT1D_ZCtpWUvoOxRXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
