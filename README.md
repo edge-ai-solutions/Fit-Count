@@ -1,12 +1,26 @@
-FitCount Apps
+# FitCount Apps
 
-Title - Posture Analysis and Rep Counting for Fitness and Wellness
+**Title:-** Posture Analysis and Rep Counting for Fitness and Wellness
 
-Language Used: - Kotlin
+**Language Used:-** Kotlin
 
-Technology Used: - Tensorflow lite posenet model
+**Technology Used:-** Tensorflow lite posenet model
 
-Concept:
+**Screen Shots**
+
+<p align="middle">
+  <img src="screenshots/1.png" width="200" />
+  <img src="screenshots/2.png" width="200" />
+  <img src="screenshots/3.png" width="200" />
+
+</p>
+<p align="middle">
+  <img src="screenshots/4.png" width="200" />
+  <img src="screenshots/5.png" width="200" />
+  <img src="screenshots/6.png" width="200" />
+</p>
+
+**Concept:**
 
 This app platform leverages camera AI and pose detection to create a comprehensive health and fitness companion app. It offers functionalities for both healthcare professionals and individual users, focusing on:
 
@@ -14,7 +28,7 @@ This app platform leverages camera AI and pose detection to create a comprehensi
 
 -Rep Counting: Accurately count repetitions of various exercises performed by the user through pose detection.
 
-Target Users:
+**Target Users:**
 
 1.Individual Users: Fitness enthusiasts, athletes, and people focused on general well-being can utilize the app for:
 
@@ -30,7 +44,7 @@ Target Users:
 
 -Tracking patient workout data for performance analysis and progress reports.
 
-AI Functionality:
+**AI Functionality:**
 
 1.Pose Estimation: The app utilizes a pre-trained pose estimation model to detect key body joints (e.g., shoulders, elbows, knees) in real-time through the phone's camera.
 
@@ -38,7 +52,7 @@ AI Functionality:
 
 3.Rep Counting: The AI tracks the movement of key joints throughout an exercise (e.g., push-ups, squats) and identifies the complete repetitions based on specific joint angles and movement patterns. Users can set the desired exercise type, and the app will automatically count repetitions.
 
-App Platform Features:
+**App Platform Features:**
 
 -Exercise Library: A comprehensive library of exercises with video demonstrations and detailed instructions on proper form.
 
@@ -50,7 +64,7 @@ App Platform Features:
 
 -Remote Coaching: Healthcare professionals can monitor patient posture and progress remotely, providing personalized coaching and feedback.
 
-Benefits:
+**Benefits:**
 
 1.Improved Posture: Helps users maintain proper form during exercise, reducing the risk of injuries and improving overall well-being.
 
