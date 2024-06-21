@@ -76,3 +76,10 @@ This app platform leverages camera AI and pose detection to create a comprehensi
 
 Overall, this AI-powered app platform creates a valuable tool for both individual fitness enthusiasts and healthcare professionals, promoting improved posture, effective workouts, and personalized training for a healthier and more active lifestyle.
 
+**Support**
+
+For any issues or support, please contact:
+
+*Email:* hello@vite.biz
+
+*Website:* https://www.vite.biz/
